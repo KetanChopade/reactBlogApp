@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/reactBlogApp/static/css/main.0a1fd6a1.css",
+    "main.js": "/reactBlogApp/static/js/main.b54301d4.js",
+    "static/media/articleimg.jpg": "/reactBlogApp/static/media/articleimg.fc970b5974ba6d45a3a7.jpg",
+    "static/media/settingdp.jpeg": "/reactBlogApp/static/media/settingdp.8c755b33d66861da0117.jpeg",
+    "static/media/banner.webp": "/reactBlogApp/static/media/banner.0a0a0125e47513aacf7b.webp",
+    "static/media/writebanner.jpeg": "/reactBlogApp/static/media/writebanner.a8c7279b61ce97da0dcb.jpeg",
+    "static/media/aboutme.jpg": "/reactBlogApp/static/media/aboutme.451eadf104509dbac4c9.jpg",
+    "index.html": "/reactBlogApp/index.html",
+    "main.0a1fd6a1.css.map": "/reactBlogApp/static/css/main.0a1fd6a1.css.map",
+    "main.b54301d4.js.map": "/reactBlogApp/static/js/main.b54301d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a1fd6a1.css",
+    "static/js/main.b54301d4.js"
+  ]
+}
